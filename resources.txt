@@ -1,0 +1,4 @@
+1- https://seaborn.pydata.org/generated/seaborn.countplot.html
+2-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html
+3- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+4- https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.hist.html
